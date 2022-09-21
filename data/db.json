@@ -1,23 +1,23 @@
 {
   "products": [
     {
-      "id": 1,
-      "title": "Google Pixel Slate 12.3-Inch 2 in 1 Laptop Intel Core m3, 8GB RAM, 64GB, Aspect Ratio 3:2",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg"
+      "title": "Laptop",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
+      "id": 1
     },
     {
-      "id": 2,
       "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
-      "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg"
+      "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg",
+      "id": 2
     },
     {
-      "title": "aa",
+      "title": "Mobile Charger",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31nj8q6QKAL.jpg",
       "id": 3
     },
     {
-      "title": "Test",
-      "image": "dsadasda",
+      "title": "realme Narzo 50 Pro 5G (Hyper Black 6GB RAM+128GB Storage)",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41VnUfgcBqL._SX300_SY300_QL70_FMwebp_.jpg",
       "id": 4
     }
   ]
